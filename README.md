@@ -22,9 +22,7 @@ Vous pouvez installer le package agreste à partir du fichier
 `agreste.tar.gz` :
 
 ``` r
-install.packages("C:/Users/killian.steunou/Downloads/chemin/agreste.tar.gz",
-                 repos=NULL,
-                 type = "source")
+devtools::install_github("https://github.com/killian31/agrestePubli.git")
 ```
 
 ## Example
@@ -39,6 +37,4 @@ app_formatage()
 ```
 
 Vous pouvez également démarrer l’interface graphique en utilisant
-l’*Addin* intégré :
-
-<img src="man/figures/README-/addins_screen.png" width="100%" />
+l’*Addin* intégré.
