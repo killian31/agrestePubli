@@ -1,0 +1,28 @@
+ajouter_champ           Ajouter le champ sous un tableau dans une
+                        feuille d'un fichier xlsx
+ajouter_note_lecture    Ajouter une note de lecture sous un tableau
+                        dans une feuille d'un fichier xlsx
+ajouter_source          Ajouter la source sous un tableau dans une
+                        feuille d'un fichier xlsx
+ajouter_tableau_excel   Ajouter un tableau dans une feuille excel
+ajouter_titre_primeur   Ajouter le titre du primeur dans la première
+                        cellule de chaque feuille
+ajouter_titre_tableau   Ajouter le titre du tableau dans la première
+                        cellule d'une feuille
+app_formatage           Ouvrir l'application Shiny d'édition du tableur
+carte_aplat             Créer une carte représentant les volumes en
+                        aplat de couleurs
+carte_rond_proportionnel
+                        Créer une carte représentant les volumes en
+                        ronds proportionnels
+creer_excel_depuis_plan
+                        Crée un classeur et le formate
+creer_liste_style_excel
+                        Parametrer le tableur excel
+donnees_fond_carte      Créer un tableau avec les données géographiques
+                        de fond de carte
+formater_auto           Formater un classeur entier
+geler                   Geler une(des) ligne(s) et/ou une(des)
+                        colonne(s)
+taille_colonnes         Applique des tailles de colonne aux tableaux
+                        d'un workbook
